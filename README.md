@@ -3,3 +3,5 @@
 Image Denoising using Dictionary Learning
 
 Feature Extraction using PixelConnectivity GraphAgglomerativeClustering
+
+FeatureExtraction using GradientConnectivity Graph SpectralClustering
