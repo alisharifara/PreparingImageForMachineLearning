@@ -1,9 +1,9 @@
 # Preparing Image For Machine Learning
 
-Image Denoising using Dictionary Learning
+1. Image Denoising using Dictionary Learning
 
-Feature Extraction using PixelConnectivity GraphAgglomerativeClustering
+2. Feature Extraction using PixelConnectivity GraphAgglomerativeClustering
 
-FeatureExtraction using GradientConnectivity Graph SpectralClustering
+3. FeatureExtraction using GradientConnectivity Graph SpectralClustering
 
-The Kernel Trick (and Kernel Approximation) in Support Vector Classification
+4. The Kernel Trick (and Kernel Approximation) in Support Vector Classification
